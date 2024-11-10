@@ -1,6 +1,6 @@
 # FiveM ESX Repair Kit
 
-**!!!ONLY AVALIBLE IN GERMAN RIGHT NOW!!!***
+**!!!ONLY AVALIBLE IN GERMAN RIGHT NOW!!!**
 
 **Repair Kit for FiveM**
 
